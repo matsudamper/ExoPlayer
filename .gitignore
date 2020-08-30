@@ -64,9 +64,6 @@ extensions/av1/src/main/jni/libgav1
 # Opus extension
 extensions/opus/src/main/jni/libopus
 
-# FLAC extension
-extensions/flac/src/main/jni/flac
-
 # FFmpeg extension
 extensions/ffmpeg/src/main/jni/ffmpeg
 
